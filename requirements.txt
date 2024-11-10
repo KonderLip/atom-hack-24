@@ -43,10 +43,10 @@ CacheControl==0.13.1
 cachetools==5.3.1
 catalogue==2.0.9
 celery==5.3.1
-certifi==2023.7.22
+certifi==2024.8.30
 cffi==1.15.1
 chardet==4.0.0
-charset-normalizer==2.0.12
+charset-normalizer==3.4.0
 chex==0.1.7
 click==8.1.6
 click-didyoumean==0.3.0
@@ -124,7 +124,7 @@ fastdownload==0.0.7
 fastjsonschema==2.18.0
 fastprogress==1.0.3
 fastrlock==0.8.1
-filelock==3.12.2
+filelock==3.16.1
 Fiona==1.9.4.post1
 firebase-admin==5.3.0
 flash-attn==2.5.8
@@ -137,7 +137,7 @@ folium==0.14.0
 fonttools==4.41.1
 frozendict==2.3.8
 frozenlist==1.4.0
-fsspec==2023.6.0
+fsspec==2024.9.0
 funcy==2.0
 future==0.18.3
 gast==0.4.0
@@ -190,11 +190,12 @@ holoviews==1.15.4
 html5lib==1.1
 httpimport==1.3.1
 httplib2==0.21.0
+huggingface==0.0.1
 huggingface-hub==0.26.2
 humanize==4.6.0
 hydra-core==1.3.2
 hyperopt==0.2.7
-idna==3.4
+idna==3.10
 imageio==2.25.1
 imageio-ffmpeg==0.4.8
 imagesize==1.4.1
@@ -289,7 +290,7 @@ nltk==3.8.1
 notebook==6.4.8
 numba==0.56.4
 numexpr==2.8.4
-numpy==1.22.4
+numpy==2.1.3
 nvidia-cublas-cu12==12.1.3.1
 nvidia-cuda-cupti-cu12==12.1.105
 nvidia-cuda-nvrtc-cu12==12.1.105
@@ -314,7 +315,7 @@ optax==0.1.7
 orbax-checkpoint==0.3.1
 orjson==3.9.4
 osqp==0.6.2.post8
-packaging==23.1
+packaging==24.2
 palettable==3.3.3
 pandas==1.5.3
 pandas-datareader==0.10.0
@@ -398,11 +399,11 @@ python-utils==3.7.0
 pytz==2022.7.1
 pyviz-comms==2.3.2
 PyWavelets==1.4.1
-PyYAML==6.0.1
+PyYAML==6.0.2
 pyzmq==26.2.0
 qdldl==0.1.7.post0
 qudida==0.0.4
-regex==2022.10.31
+regex==2024.11.6
 requests==2.32.3
 requests-oauthlib==1.3.1
 requests-unixsocket==0.2.0
@@ -485,7 +486,7 @@ toml==0.10.2
 tomli==2.0.1
 tomlkit==0.12.1
 toolz==0.12.0
-torch==2.2.1
+torch==2.2.0
 torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.2%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=26692645ea061a005c57ec581a2d0425210ac6ba9f923edf11cc9b0ef3a111e9
 torchdata==0.6.1
 torchsummary==1.5.1
@@ -496,7 +497,7 @@ tqdm==4.67.0
 traitlets==5.7.1
 transformers==4.46.2
 triton==2.2.0
-trl==0.8.6
+trl==0.11.1
 tweepy==4.13.0
 typer==0.9.0
 types-PyYAML==6.0.12.11
@@ -507,7 +508,7 @@ tzdata==2023.3
 tzlocal==5.0.1
 uc-micro-py==1.0.2
 unattended-upgrades==0.1
-unsloth==2024.8
+unsloth @ git+https://github.com/unslothai/unsloth.git@79a2112ca4a775ce0b3cb75f5074136cb54ea6df
 uritemplate==4.1.1
 urllib3==1.26.20
 vega-datasets==0.9.0
@@ -525,7 +526,7 @@ wordcloud==1.8.2.2
 wrapt==1.14.1
 xarray==2022.12.0
 xarray-einstats==0.6.0
-xformers==0.0.25
+xformers @ https://download.pytorch.org/whl/cu118/xformers-0.0.24%2Bcu118-cp310-cp310-manylinux2014_x86_64.whl#sha256=e15b3b4e6c3aec8ea66c6fd96c60c8220bf48256d3331c4f085b873fa072c10d
 xgboost==1.7.6
 xlrd==2.0.1
 xmltodict==0.13.0
