@@ -264,7 +264,6 @@ mistune==0.8.4
 mizani==0.8.1
 mkl==2019.0
 ml-dtypes==0.2.0
-ml-kernel @ file:///app/ml_kernel
 mlxtend==0.22.0
 more-itertools==9.1.0
 moto==4.1.14
