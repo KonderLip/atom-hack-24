@@ -22,4 +22,4 @@
 
 * [Mistral-finetuned](https://drive.google.com/file/d/1YC_G6Pj5V8iHoxvZphJ1jjyV_lNDi2mU/view?usp=sharing) — ссылка на веса
 
-* [FULL_LAUNCH](FULL_LAUNCH.ipynb) — полный запуск решения на тестовом датасете, произведите замер средней скорости обработки на один файл (17с)
+* [FULL_LAUNCH](FULL_LAUNCH.ipynb) — полный запуск решения на тестовом датасете, произведен замер средней скорости обработки на один файл (17с)
